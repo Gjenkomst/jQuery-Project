@@ -1,0 +1,19 @@
+*{
+
+}
+.wrapper{
+	width: 800px;
+	height: 900px;
+	background-size: auto;
+	background-color: #265175;
+	text-align: center;
+}
+
+.clickhead{
+	width: 600px;
+	height: 120px;
+	background-color: lightblue;
+	border: 1px solid black;
+	text-align: center;
+
+}
